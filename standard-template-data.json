@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-11-06T02:54:31.793987119Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-11-06T02:56:43.978811490Z",
     "templateType": "trip_e",
     "propertyId": "01a143ba-c49a-756e-b0c1-eb003d9028a5",
     "homepageId": "01a1ae31-6384-7b2d-bc9a-6213aeb17b45"
@@ -935,7 +935,7 @@
                     "id": "01a1ae6e-63c6-7ef8-b606-dbee55b9b3de",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ae31-6384-7b2d-bc9a-6213aeb17b45/index_essence/1793927831609-1pm99a5gbk.jpg",
                     "sortOrder": 2,
-                    "description": "",
+                    "description": "따뜻한 불빛 곁에서 쉬어가는 밤",
                     "isSelected": true,
                     "blockId": null
                   },
@@ -943,7 +943,7 @@
                     "id": "01a1ae6e-6355-75c6-848a-9fbdcf84e643",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ae31-6384-7b2d-bc9a-6213aeb17b45/index_essence/1793927831601-aawtb3vspu.jpg",
                     "sortOrder": 3,
-                    "description": "",
+                    "description": "자연 가까이 머무는 하루",
                     "isSelected": true,
                     "blockId": null
                   }
