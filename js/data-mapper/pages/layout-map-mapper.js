@@ -161,6 +161,27 @@
     }
   };
 
+  // 데스크톱에서 숙소명이 제목 너비를 넘지 않도록 실제 렌더링 폭에 맞춘다.
+  LayoutMapMapper.prototype.fitRoomPreviewTitle = function (nameEl) {
+    var title = nameEl.parentElement;
+    if (!title) return;
+    var fit = function () {
+      title.style.fontSize = '';
+      if (window.innerWidth <= 1024 || !nameEl.textContent.trim()) return;
+      var size = parseFloat(getComputedStyle(title).fontSize);
+      var width = title.clientWidth;
+      if (width && nameEl.scrollWidth > width) {
+        title.style.fontSize = (size * width / nameEl.scrollWidth * 0.99) + 'px';
+      }
+    };
+    fit();
+    if (!this._roomTitleFit) {
+      this._roomTitleFit = fit;
+      window.addEventListener('resize', fit);
+      if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
+    }
+  };
+
   // MAPPER: rooms[].images[0].thumbnail[0].url + name + description
   // MAPPER: 제목/설명 = layoutMap.sections[0].hero.title/description (폴백: 제목 "stay with comfort", 설명 빈 값)
   //         + property.nameEn + rooms 카드 + .room_slider 초기화 (index.html roomList 과 동일 구조)
@@ -184,8 +205,9 @@
     // Property nameEn (customFields.property.nameEn 우선, 없으면 property.nameEn, 둘 다 없으면 빼고)
     var englishNameEl = document.querySelector('[data-property-english-name]');
     var propertyNameEn = this.getPropertyNameEn();
-    if (englishNameEl && propertyNameEn) {
-      englishNameEl.textContent = propertyNameEn;
+    if (englishNameEl) {
+      englishNameEl.textContent = propertyNameEn || '';
+      this.fitRoomPreviewTitle(englishNameEl);
     }
 
     // 설명: layoutMap.hero.description 1순위 → 없으면 빈 값 (하드코딩 기본 설명 없음)
