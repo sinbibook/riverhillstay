@@ -438,9 +438,9 @@
 
 /* 객실 미리보기 제목 */
 @media (min-width:1025px){
-    #roomList .tit_area.layout-room-title div{width:min(900px, 75%)}
-    #roomList .tit_area.layout-room-title div p{font-size:clamp(30px, 2.2vw, 46px)}
-    #roomList .tit_area.layout-room-title [data-property-english-name]{white-space:nowrap}
+    #roomList .tit_area.room_tit div{width:min(900px, 75%)}
+    #roomList .tit_area.room_tit div p{font-size:clamp(30px, 2.2vw, 46px)}
+    #roomList .tit_area.room_tit [data-property-english-name]{white-space:nowrap}
 }
 
 /* 슬라이드*/

@@ -299,5 +299,26 @@
     upsertMetaByName('google-site-verification', seo.googleSiteVerification);
   };
 
+  // 데스크톱에서 숙소명이 제목 너비를 넘지 않도록 실제 렌더링 폭에 맞춘다.
+  BaseDataMapper.prototype.fitRoomPreviewTitle = function (nameEl) {
+    var title = nameEl.parentElement;
+    if (!title) return;
+    var fit = function () {
+      title.style.fontSize = '';
+      if (window.innerWidth <= 1024 || !nameEl.textContent.trim()) return;
+      var size = parseFloat(getComputedStyle(title).fontSize);
+      var width = title.clientWidth;
+      if (width && nameEl.scrollWidth > width) {
+        title.style.fontSize = (size * width / nameEl.scrollWidth * 0.99) + 'px';
+      }
+    };
+    fit();
+    if (!this._roomTitleFit) {
+      this._roomTitleFit = fit;
+      window.addEventListener('resize', fit);
+      if (document.fonts && document.fonts.ready) document.fonts.ready.then(fit);
+    }
+  };
+
   global.BaseDataMapper = BaseDataMapper;
 })(window);
