@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.14.0",
-    "generatedAt": "2026-11-06T05:22:28.571420271Z",
+    "version": "1.15.0",
+    "generatedAt": "2026-11-06T05:32:42.025512787Z",
     "templateType": "trip_e",
     "propertyId": "01a143ba-c49a-756e-b0c1-eb003d9028a5",
     "homepageId": "01a1ae31-6384-7b2d-bc9a-6213aeb17b45"
@@ -22,7 +22,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인 시 사전 문의 바랍니다.",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인 시 사전 문의 바랍니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 야외\n- 바베큐 형태: 숯불, 그릴\n- 제공 구성: 그릴, 참나무, 참숯\n- 이용 요금: 20,000원(1박기준/현장결제)\n※ 인원기준, 인원추가금액 없음\n- 신청 시간: ~20:00\n- 준비 소요시간: 30분 이내\n- 이용 시간: ~ 22:00\n- 우천 시 이용 불가\n\n[애견동반]\n- 애견동반 불가\n\n[편의 및 주변 시설]\n- 와이파이: 보유\n- 일산화탐지기: 보유\n- 넷플릭스 미보유\n- 여름에 텃밭 채소 직접 수확 가능\n- 숙소 바로 앞 연곡천\n- 연곡해변 차량 5분\n- 주문진 수산시장 차량 7분\n\n[주차장]\n- 주차장: 보유\n- 이용요금: 무료\n- 주차 대수: 20대\n- 위치: 펜션 바로 앞\n- 전기차 충전 이용 불가\n\n[픽업]\n- 픽업 불가",
+    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인 시 사전 문의 바랍니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 야외\n- 바베큐 형태: 숯불, 그릴\n- 제공 구성: 그릴, 참나무, 참숯\n- 이용 요금: 20,000원(1박기준/현장결제)\n※ 인원기준, 인원추가금액 없음\n- 신청 시간: ~20:00\n- 준비 소요시간: 30분 이내\n- 이용 시간: ~ 22:00\n- 우천 시 이용 불가\n\n[애견동반]\n- 애견동반 불가\n\n[불멍]\n- 이용 객실: 전 객실\n- 운영 기간: 4계절\n※ 산불 조심기간: 11/1~12/15, 2/1~5/15\n- 이용 장소: 마당\n- 제공 구성: 장작\n- 이용 요금: 무료\n- 신청 시간: ~23:00\n- 이용 시간: ~23:00\n- 우천 시: 이용 불가\n\n[편의 및 주변 시설]\n- 와이파이: 보유\n- 일산화탐지기: 보유\n- 넷플릭스 미보유\n- 여름에 텃밭 채소 직접 수확 가능\n- 숙소 바로 앞 연곡천\n- 연곡해변 차량 5분\n- 주문진 수산시장 차량 7분\n\n[주차장]\n- 주차장: 보유\n- 이용요금: 무료\n- 주차 대수: 20대\n- 위치: 펜션 바로 앞\n- 전기차 충전 이용 불가\n\n[픽업]\n- 픽업 불가",
     "reservationGuide": "",
     "province": "도/시",
     "city": "시/군/구",
@@ -92,6 +92,14 @@
             "description": "",
             "isSelected": true,
             "blockId": null
+          },
+          {
+            "id": "01a1af54-4b34-79cc-b2a3-73870161ca4c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aeb1-0ea9-716a-8d98-f12a0e868c5e/main/1793942899225-wmg8d7zm98.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
           }
         ]
       },
@@ -145,11 +153,52 @@
         ]
       },
       {
+        "id": "01a1af56-eb0f-71c6-bc78-9eb7989746bd",
+        "name": "불멍",
+        "description": "",
+        "usageGuide": "- 이용 객실: 전 객실\n- 운영 기간: 4계절\n※ 산불 조심기간: 11/1~12/15, 2/1~5/15\n- 이용 장소: 마당\n- 제공 구성: 장작\n- 이용 요금: 무료\n- 신청 시간: ~23:00\n- 이용 시간: ~23:00\n- 우천 시: 이용 불가",
+        "displayOrder": 2,
+        "images": [
+          {
+            "id": "01a1af57-50d6-7da0-95b0-3748a977b781",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1af56-eb0f-71c6-bc78-9eb7989746bd/main/1793943097285-ox405xzk4d.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1af57-50d6-7cde-944b-bbc8990542bb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1af56-eb0f-71c6-bc78-9eb7989746bd/main/1793943097289-6v2gor8hty.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1af57-518f-79fd-a64f-b8a7d86f7b8c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1af56-eb0f-71c6-bc78-9eb7989746bd/main/1793943097291-cz8eb1hchy.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1af57-518a-711a-98ff-204952b0a31c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1af56-eb0f-71c6-bc78-9eb7989746bd/main/1793943097289-z3nye06shi.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "01a16157-0f42-7c5f-b74f-871f90b48a18",
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 와이파이: 보유\n- 일산화탐지기: 보유\n- 넷플릭스 미보유\n- 여름에 텃밭 채소 직접 수확 가능\n- 숙소 바로 앞 연곡천\n- 연곡해변 차량 5분\n- 주문진 수산시장 차량 7분",
-        "displayOrder": 2,
+        "displayOrder": 3,
         "images": [
           {
             "id": "01a1ae31-06e4-7b09-822b-4a28eedcbf79",
@@ -253,7 +302,7 @@
           {
             "id": "01a1ab0c-03f5-7958-b9d3-935aa13d1ac9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/ZXi0kAtU2E5S.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -263,7 +312,7 @@
           {
             "id": "01a1ab0c-03f5-7b4c-87fb-c1d031e57830",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/paoVw5USAqBF.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -271,7 +320,7 @@
           {
             "id": "01a1ab0c-03f5-7bbd-9805-f240b44a7ab7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/BVQlTkXL0moD.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -279,7 +328,7 @@
           {
             "id": "01a1ab0c-03f5-7bff-acb6-2b3897e29169",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/S5t0ALZ4gvkc.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -287,7 +336,7 @@
           {
             "id": "01a1ab0c-03f5-7c29-a2da-6ae6fe6dd13a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/s1t8f2Pz7WV0.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -295,7 +344,7 @@
           {
             "id": "01a1ab0c-03f5-7c52-9115-ca7e910e96e1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/Spm0J4NoE9cU.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -303,7 +352,7 @@
           {
             "id": "01a1ab0c-03f5-7c75-ba79-6b301245bf3d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/szWAwUeydHPR.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -311,7 +360,7 @@
           {
             "id": "01a1ab0c-03f5-7c94-b94d-2f5a7b630080",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/Kruw37WlJAfN.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -319,7 +368,7 @@
           {
             "id": "01a1ab0c-03f5-7cb5-b060-7192dda25ab2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/EqpV8Zhx4vIu.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -327,7 +376,7 @@
           {
             "id": "01a1ab0c-03f5-7ce8-9fe5-6fcd5209ed77",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/OFjGz6dtHo3x.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -789,8 +838,8 @@
       {
         "logo": [
           {
-            "id": "01a1aee1-cfe2-7e89-9e6d-dee08d52f079",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ae31-6384-7b2d-bc9a-6213aeb17b45/logo/1793935396247-en4cvx28ml.png",
+            "id": "01a1af58-46d8-70bf-86f4-b0fb2daab0d9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ae31-6384-7b2d-bc9a-6213aeb17b45/logo/1793943160287-qihpdj73eh.png",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
