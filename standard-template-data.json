@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.5.0",
-    "generatedAt": "2026-11-06T02:21:19.118440066Z",
+    "version": "1.6.0",
+    "generatedAt": "2026-11-06T02:54:31.793987119Z",
     "templateType": "trip_e",
     "propertyId": "01a143ba-c49a-756e-b0c1-eb003d9028a5",
     "homepageId": "01a1ae31-6384-7b2d-bc9a-6213aeb17b45"
@@ -71,11 +71,36 @@
     },
     "facilities": [
       {
+        "id": "01a1aeb1-0ea9-716a-8d98-f12a0e868c5e",
+        "name": "리버뷰",
+        "description": "창 너머로 펼쳐지는 풍경이\n머무는 시간의 흐름을 한층 더 여유롭게 만듭니다.\n자연을 바라보며 온전히 쉬어가는 순간을 경험해보세요.",
+        "usageGuide": "",
+        "displayOrder": 0,
+        "images": [
+          {
+            "id": "01a1aeb1-1e33-7be2-9909-a5c5a2e07e6c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aeb1-0ea9-716a-8d98-f12a0e868c5e/main/1793932205089-40sqnaj1ia.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1aeb1-1d7b-7fa4-b72b-b8b9683428a0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aeb1-0ea9-716a-8d98-f12a0e868c5e/main/1793932205085-n8d0x2bk29.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          }
+        ]
+      },
+      {
         "id": "01a16157-0f42-798a-99a5-362adea38a3c",
         "name": "개별바베큐",
         "description": "",
         "usageGuide": "- 이용 객실: 전 객실\n- 이용 장소: 야외\n- 바베큐 형태: 숯불, 그릴\n- 제공 구성: 그릴, 참나무, 참숯\n- 이용 요금: 20,000원(1박기준/현장결제)\n※ 인원기준, 인원추가금액 없음\n- 신청 시간: ~20:00\n- 준비 소요시간: 30분 이내\n- 이용 시간: ~ 22:00\n- 우천 시 이용 불가",
-        "displayOrder": 0,
+        "displayOrder": 1,
         "images": [
           {
             "id": "01a1ae30-585d-7bcf-adbb-1e0fd3014e82",
@@ -124,7 +149,7 @@
         "name": "편의 및 주변 시설",
         "description": "",
         "usageGuide": "- 와이파이: 보유\n- 일산화탐지기: 보유\n- 넷플릭스 미보유\n- 여름에 텃밭 채소 직접 수확 가능\n- 숙소 바로 앞 연곡천\n- 연곡해변 차량 5분\n- 주문진 수산시장 차량 7분",
-        "displayOrder": 1,
+        "displayOrder": 2,
         "images": [
           {
             "id": "01a1ae31-06e4-7b09-822b-4a28eedcbf79",
@@ -228,7 +253,7 @@
           {
             "id": "01a1ab0c-03f5-7958-b9d3-935aa13d1ac9",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/ZXi0kAtU2E5S.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -238,7 +263,7 @@
           {
             "id": "01a1ab0c-03f5-7b4c-87fb-c1d031e57830",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/paoVw5USAqBF.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -246,7 +271,7 @@
           {
             "id": "01a1ab0c-03f5-7bbd-9805-f240b44a7ab7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/BVQlTkXL0moD.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -254,7 +279,7 @@
           {
             "id": "01a1ab0c-03f5-7bff-acb6-2b3897e29169",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/S5t0ALZ4gvkc.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -262,7 +287,7 @@
           {
             "id": "01a1ab0c-03f5-7c29-a2da-6ae6fe6dd13a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/s1t8f2Pz7WV0.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -270,7 +295,7 @@
           {
             "id": "01a1ab0c-03f5-7c52-9115-ca7e910e96e1",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/Spm0J4NoE9cU.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -278,7 +303,7 @@
           {
             "id": "01a1ab0c-03f5-7c75-ba79-6b301245bf3d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/szWAwUeydHPR.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -286,7 +311,7 @@
           {
             "id": "01a1ab0c-03f5-7c94-b94d-2f5a7b630080",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/Kruw37WlJAfN.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -294,7 +319,7 @@
           {
             "id": "01a1ab0c-03f5-7cb5-b060-7192dda25ab2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/EqpV8Zhx4vIu.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -302,7 +327,7 @@
           {
             "id": "01a1ab0c-03f5-7ce8-9fe5-6fcd5209ed77",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/05/OFjGz6dtHo3x.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -891,17 +916,25 @@
                 "title": "",
                 "images": [
                   {
+                    "id": "01a1aec7-6ee9-7470-bed5-8ed986c52026",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ae31-6384-7b2d-bc9a-6213aeb17b45/index_essence/1793933667254-9qvi9v2ynv.jpg",
+                    "sortOrder": 0,
+                    "description": "창가에 앉아 바라보는 잔잔한 풍경",
+                    "isSelected": true,
+                    "blockId": null
+                  },
+                  {
                     "id": "01a1ae6e-6293-7dc5-8179-f2ddd6cccdbd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ae31-6384-7b2d-bc9a-6213aeb17b45/index_essence/1793927831521-q81c1cpsqr.jpg",
-                    "sortOrder": 0,
-                    "description": "",
+                    "sortOrder": 1,
+                    "description": "함께 둘러앉아 나누는 저녁",
                     "isSelected": true,
                     "blockId": null
                   },
                   {
                     "id": "01a1ae6e-63c6-7ef8-b606-dbee55b9b3de",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ae31-6384-7b2d-bc9a-6213aeb17b45/index_essence/1793927831609-1pm99a5gbk.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
@@ -909,7 +942,7 @@
                   {
                     "id": "01a1ae6e-6355-75c6-848a-9fbdcf84e643",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ae31-6384-7b2d-bc9a-6213aeb17b45/index_essence/1793927831601-aawtb3vspu.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true,
                     "blockId": null
