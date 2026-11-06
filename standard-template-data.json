@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-11-06T02:56:43.978811490Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-11-06T03:13:37.807936978Z",
     "templateType": "trip_e",
     "propertyId": "01a143ba-c49a-756e-b0c1-eb003d9028a5",
     "homepageId": "01a1ae31-6384-7b2d-bc9a-6213aeb17b45"
@@ -809,7 +809,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "흘러가는 강을 바라보며 여유로운 하루의 시간",
                 "images": [
                   {
                     "id": "01a1ae6e-6488-7f37-9bcc-31d70143dd4f",
@@ -894,7 +894,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": ""
+                "description": "Slow Days by the River"
               },
               "closing": {
                 "title": "A Day at Your Pace",
