@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.28.0",
-    "generatedAt": "2026-11-06T06:09:59.310944636Z",
+    "version": "1.29.0",
+    "generatedAt": "2026-11-06T06:14:07.057798751Z",
     "templateType": "trip_e",
     "propertyId": "01a143ba-c49a-756e-b0c1-eb003d9028a5",
     "homepageId": "01a1ae31-6384-7b2d-bc9a-6213aeb17b45"
@@ -78,8 +78,8 @@
         "displayOrder": 0,
         "images": [
           {
-            "id": "01a1af54-4b34-79cc-b2a3-73870161ca4c",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aeb1-0ea9-716a-8d98-f12a0e868c5e/main/1793942899225-wmg8d7zm98.jpg",
+            "id": "01a1af7d-46dc-7d9a-b517-f7c0e237bcf8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aeb1-0ea9-716a-8d98-f12a0e868c5e/main/1793945585008-749zvnt0xt.jpg",
             "sortOrder": 0,
             "description": "",
             "isSelected": true,
@@ -97,6 +97,14 @@
             "id": "01a1aeb1-1d7b-7fa4-b72b-b8b9683428a0",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aeb1-0ea9-716a-8d98-f12a0e868c5e/main/1793932205085-n8d0x2bk29.jpg",
             "sortOrder": 2,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "01a1af7d-2705-77d2-afd5-2c9147630bd3",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/01a1aeb1-0ea9-716a-8d98-f12a0e868c5e/main/1793945576687-3bouuypg1d.jpg",
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -966,8 +974,8 @@
                 "title": "A Day at Your Pace",
                 "images": [
                   {
-                    "id": "01a1ae6e-6355-7e31-ac2a-dec2960163f2",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ae31-6384-7b2d-bc9a-6213aeb17b45/index_closing/1793927831909-s4kknjxu8p.jpg",
+                    "id": "01a1af7e-306a-735e-ae13-94d20ed99850",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/01a1ae31-6384-7b2d-bc9a-6213aeb17b45/index_closing/1793945644616-ivtvbhqjhp.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true,
