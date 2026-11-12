@@ -1,16 +1,16 @@
 {
   "metadata": {
-    "version": "1.41.0",
-    "generatedAt": "2026-11-06T09:39:42.857682267Z",
+    "version": "1.42.0",
+    "generatedAt": "2026-11-12T14:10:31.897960016Z",
     "templateType": "trip_e",
     "propertyId": "01a143ba-c49a-756e-b0c1-eb003d9028a5",
     "homepageId": "01a1ae31-6384-7b2d-bc9a-6213aeb17b45"
   },
   "property": {
     "id": "01a143ba-c49a-756e-b0c1-eb003d9028a5",
-    "name": "강릉 리버힐스테이",
-    "nameEn": "Gangneung River Hill Stay",
-    "description": "맑은 연곡천의 자연과 무료 개별 숯불 바비큐, 정성 어린 텃밭의 온기가 어우러지는 강릉 리버힐스테이에서 완벽한 휴식을 경험해 보세요.",
+    "name": "강릉 리버힐스테이 펜션",
+    "nameEn": "Gangneung River Hill Stay Pension",
+    "description": "맑은 연곡천의 자연과 개별 바비큐, 정성 어린 텃밭의 온기가 어우러지는 강릉 리버힐스테이 펜션에서 완벽한 휴식을 경험해 보세요.",
     "subtitle": "",
     "address": "강원특별자치도 강릉시 연곡면 초시길 386 강릉 리버힐스테이",
     "latitude": 37.8454201789456,
@@ -22,13 +22,13 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인 시 사전 문의 바랍니다.",
-    "usageGuide": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인 시 사전 문의 바랍니다.\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 야외\n- 바베큐 형태: 숯불, 그릴\n- 제공 구성: 그릴, 참나무, 참숯\n- 이용 요금: 20,000원(1박기준/현장결제)\n※ 인원기준, 인원추가금액 없음\n- 신청 시간: ~20:00\n- 준비 소요시간: 30분 이내\n- 이용 시간: ~ 22:00\n- 우천 시 이용 불가\n\n[애견동반]\n- 애견동반 불가\n\n[불멍]\n- 이용 객실: 전 객실\n- 운영 기간: 4계절\n※ 산불 조심기간: 11/1~12/15, 2/1~5/15\n- 이용 장소: 마당\n- 제공 구성: 장작\n- 이용 요금: 무료\n- 신청 시간: ~23:00\n- 이용 시간: ~23:00\n- 우천 시: 이용 불가\n\n[편의 및 주변 시설]\n- 와이파이: 보유\n- 일산화탐지기: 보유\n- 넷플릭스 미보유\n- 여름에 텃밭 채소 직접 수확 가능\n- 숙소 바로 앞 연곡천\n- 연곡해변 차량 5분\n- 주문진 수산시장 차량 7분\n\n[주차장]\n- 주차장: 보유\n- 이용요금: 무료\n- 주차 대수: 20대\n- 위치: 펜션 바로 앞\n- 전기차 충전 이용 불가\n\n[픽업]\n- 픽업 불가",
-    "reservationGuide": "",
+    "usageGuide": "- 애견동반 불가\n- 픽업 불가\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 체크인 시 사전 문의 바랍니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 8세 이상\n- 아동: 24개월 이상~8세 미만\n- 유아: 24개월 미만\n\n[추가 요금]\n- 전객실\n- 요금: 성인 1인 20,000원, 아동 1인 20,000원, 유아 무료\n(1박기준/현장결제)\n\n[개별바베큐]\n- 이용 객실: 전 객실\n- 이용 장소: 야외\n- 바베큐 형태: 숯불, 그릴\n- 제공 구성: 그릴, 참나무, 참숯\n- 이용 요금: 20,000원(1박기준/현장결제)\n※ 인원기준, 인원추가금액 없음\n- 신청 시간: ~20:00\n- 준비 소요시간: 30분 이내\n- 이용 시간: ~ 22:00\n- 우천 시 이용 불가\n\n[불멍]\n- 이용 객실: 전 객실\n- 운영 기간: 4계절\n※ 산불 조심기간: 11/1~12/15, 2/1~5/15\n- 이용 장소: 마당\n- 제공 구성: 장작\n- 이용 요금: 무료\n- 신청 시간: ~23:00\n- 이용 시간: ~23:00\n- 우천 시: 이용 불가\n\n[편의 및 주변 시설]\n- 와이파이 보유\n- 일산화탐지기 보유\n- 넷플릭스 이용 불가\n- 여름에 텃밭 채소 직접 수확 가능\n\n[주변 관광지]\n- 숙소 바로 앞 연곡천\n- 연곡해변 차량 5분\n- 주문진 수산시장 차량 7분\n\n[주차장]\n- 주차장: 보유\n- 이용요금: 무료\n- 주차 대수: 20대\n- 위치: 펜션 바로 앞\n- 전기차 충전 이용 불가",
+    "reservationGuide": "- 애견동반 불가\n- 픽업 불가",
     "province": "도/시",
     "city": "시/군/구",
     "domain": "riverhillstay.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/13623",
-    "ybsId": "",
+    "ybsId": "81799",
     "tripPropertyId": "13623",
     "partnerType": "distributor_b",
     "tripProviderName": "(주)신비서",
@@ -37,8 +37,11 @@
       "흡연구역(지정장소)"
     ],
     "nearbyAttractions": [
-      "바다(도보5분)",
-      "강/호수"
+      "계곡인접",
+      "강/호수",
+      "포레스트뷰(산)",
+      "해수욕장",
+      "일출/일몰"
     ],
     "services": [ ],
     "propertyThemes": [ ],
@@ -205,7 +208,7 @@
         "id": "01a16157-0f42-7c5f-b74f-871f90b48a18",
         "name": "편의 및 주변 시설",
         "description": "",
-        "usageGuide": "- 와이파이: 보유\n- 일산화탐지기: 보유\n- 넷플릭스 미보유\n- 여름에 텃밭 채소 직접 수확 가능\n- 숙소 바로 앞 연곡천\n- 연곡해변 차량 5분\n- 주문진 수산시장 차량 7분",
+        "usageGuide": "- 와이파이 보유\n- 일산화탐지기 보유\n- 넷플릭스 이용 불가\n- 여름에 텃밭 채소 직접 수확 가능\n\n[주변 관광지]\n- 숙소 바로 앞 연곡천\n- 연곡해변 차량 5분\n- 주문진 수산시장 차량 7분",
         "displayOrder": 3,
         "images": [
           {
@@ -310,7 +313,7 @@
           {
             "id": "01a1af8d-a511-7d7c-9acc-3abfa8554960",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/P3qUWFcS4xmj.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -320,7 +323,7 @@
           {
             "id": "01a1af8d-a511-7ef8-9701-23e8cae55fb6",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/MFrdeuvN4ZEW.jpg",
-            "sortOrder": 2,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -328,7 +331,7 @@
           {
             "id": "01a1af8d-a512-7192-9a41-f31647d1dbee",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/lsERuqd4JKx0.jpg",
-            "sortOrder": 3,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -336,7 +339,7 @@
           {
             "id": "01a1af8d-a512-73e8-9be8-9627bfe78b14",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/MGyJCqdfXHIR.jpg",
-            "sortOrder": 4,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -344,7 +347,7 @@
           {
             "id": "01a1af8d-a512-7494-a3c6-37f0b2121f9d",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/X0gx6HBc4YwG.jpg",
-            "sortOrder": 5,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -352,7 +355,7 @@
           {
             "id": "01a1af8d-a512-77c9-9cad-90d03d8aa7f2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/HvLdjElbJKRn.jpg",
-            "sortOrder": 6,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -360,7 +363,7 @@
           {
             "id": "01a1af8d-a512-7df7-877d-e5380ead84b4",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/UqysOodYIxp3.jpg",
-            "sortOrder": 7,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -368,7 +371,7 @@
           {
             "id": "01a1af8d-a513-724d-96f0-de4d4f431a6f",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/dmnkx9jKvsoF.jpg",
-            "sortOrder": 8,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -376,7 +379,7 @@
           {
             "id": "01a1af8d-a513-7691-9b43-daf2f32635ca",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/5QdC8v2ZhauB.jpg",
-            "sortOrder": 9,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -384,7 +387,7 @@
           {
             "id": "01a1af8d-a513-79f8-8b27-15eeef52caaf",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/TtqV6apC0w9z.jpg",
-            "sortOrder": 10,
+            "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -392,7 +395,7 @@
           {
             "id": "01a1af8d-a514-71ba-bb94-e6417a7998a7",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/11/06/MJRt3Ff8nxsB.jpg",
-            "sortOrder": 11,
+            "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -406,8 +409,8 @@
   "rooms": [
     {
       "id": "01a16161-0500-7478-8d28-419df44c0e8e",
-      "name": "1층",
-      "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(더블침대1)+주방1+화장실2\r\n18평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,정수기,전자레인지,식탁,드라이기,일산화탄소 감지기,인덕션,화재 감지기,소화기",
+      "name": "1층 (리버뷰)",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(더블침대1)+주방1+화장실2\r\n호수전망, 18평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,정수기,전자레인지,식탁,드라이기,일산화탄소 감지기,인덕션,화재 감지기,소화기",
       "roomInfo": "",
       "usageGuide": "",
       "group": null,
@@ -473,7 +476,9 @@
         "욕실용품",
         "식탁"
       ],
-      "roomViews": [ ],
+      "roomViews": [
+        "호수전망"
+      ],
       "roomStructures": [
         "분리형"
       ],
@@ -493,7 +498,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a1af8f-7b96-77ce-82b4-90decf81f04b",
+              "id": "01a1c496-b4ca-7e2c-aefb-8534fbc0f468",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/xyDL1PY5QRKm.jpg",
               "sortOrder": 1,
               "description": "",
@@ -503,7 +508,7 @@
           ],
           "interior": [
             {
-              "id": "01a1af8f-7b96-7c51-a37d-bae1d96df521",
+              "id": "01a1c496-b4cb-7366-9b0a-46522eae3389",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/8cCkMESQdGpV.jpg",
               "sortOrder": 2,
               "description": "",
@@ -511,7 +516,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bc8-7c78-9ae3-bf062e6baf2a",
+              "id": "01a1c496-b4cd-76fb-b831-458f5af5846b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/J71BZGApIE8b.jpg",
               "sortOrder": 3,
               "description": "",
@@ -519,7 +524,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bc9-7c2e-8431-ef6e26106987",
+              "id": "01a1c496-b4cd-7ea5-b2a2-1b4c21323e0e",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/3qFJhyNuorWx.jpg",
               "sortOrder": 4,
               "description": "",
@@ -527,7 +532,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bca-7274-a671-189c93481144",
+              "id": "01a1c496-b4ce-7226-9efa-ce489148ee7f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/VtuDJnbiMzEp.jpg",
               "sortOrder": 5,
               "description": "",
@@ -535,7 +540,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bca-7b62-a186-92416b9c81a3",
+              "id": "01a1c496-b4ce-7662-983b-81467749ad95",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/RigfHUQ0pnEF.jpg",
               "sortOrder": 6,
               "description": "",
@@ -543,7 +548,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bca-7f2c-b503-33cba68d39ef",
+              "id": "01a1c496-b4ce-7ae1-be30-700f3649dca2",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/DuhLardEcls2.jpg",
               "sortOrder": 7,
               "description": "",
@@ -551,7 +556,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bcb-70ce-8507-23067bd93616",
+              "id": "01a1c496-b4d4-7216-a9cf-b77fe112cdb5",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/Fg6IiMX5xl9A.jpg",
               "sortOrder": 8,
               "description": "",
@@ -559,7 +564,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bcb-7416-b946-50f591168c7f",
+              "id": "01a1c496-b4d4-7c4d-ae5a-7261c1052b29",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/dtQorSaYHXU8.jpg",
               "sortOrder": 9,
               "description": "",
@@ -567,7 +572,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bcb-77db-97a4-683927a4163c",
+              "id": "01a1c496-b4d5-7304-aeb2-4972a554e723",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/jvnxYoUp5aS0.jpg",
               "sortOrder": 10,
               "description": "",
@@ -575,7 +580,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bcb-797a-9987-517e0fed5e12",
+              "id": "01a1c496-b4d5-7a3c-97f1-8e0fc13bc6c6",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/LUQ5uqaozlGj.jpg",
               "sortOrder": 11,
               "description": "",
@@ -583,7 +588,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bcb-7a90-b359-ca070edb9323",
+              "id": "01a1c496-b525-7cc9-905f-12289ee0376c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/gP3vYplsXnMR.jpg",
               "sortOrder": 12,
               "description": "",
@@ -591,7 +596,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bcb-7c4c-99dd-84c125a2cb84",
+              "id": "01a1c496-b526-7a84-9426-95e9ab2b62cb",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/AGjd5pz84lEv.jpg",
               "sortOrder": 13,
               "description": "",
@@ -599,7 +604,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bd9-7507-86ca-793d57e00cde",
+              "id": "01a1c496-b526-7ea3-b16c-5478861b669d",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/76HecVpgkbfo.jpg",
               "sortOrder": 14,
               "description": "",
@@ -607,7 +612,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7bd9-78fa-a983-514c35dd4534",
+              "id": "01a1c496-b52e-7ea3-b01f-97841f95282a",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/7vnhiHEAGDeN.jpg",
               "sortOrder": 15,
               "description": "",
@@ -622,8 +627,8 @@
     },
     {
       "id": "01a16161-0400-7418-883f-554e7cfa5e26",
-      "name": "2층",
-      "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(더블침대1)+주방1+화장실2\r\n18평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,정수기,전자레인지,식탁,인덕션,드라이기,일산화탄소 감지기,소화기,화재 감지기,화장대",
+      "name": "2층 (리버뷰)",
+      "description": "분리형, 거실1+침대룸(퀸침대1)+침대룸(더블침대1)+주방1+화장실2\r\n강전망, 18평\r\n욕실용품,남녀공용,TV,금연,냉장고,에어컨,전기밥솥,취사시설/도구,정수기,전자레인지,식탁,인덕션,드라이기,일산화탄소 감지기,소화기,화재 감지기,화장대",
       "roomInfo": "",
       "usageGuide": "",
       "group": null,
@@ -690,7 +695,9 @@
         "욕실용품",
         "식탁"
       ],
-      "roomViews": [ ],
+      "roomViews": [
+        "강전망"
+      ],
       "roomStructures": [
         "분리형"
       ],
@@ -710,7 +717,7 @@
         {
           "thumbnail": [
             {
-              "id": "01a1af8f-7d62-7135-8f94-e2f24b98ad67",
+              "id": "01a1c496-b71b-73fb-b093-46dbbbffab85",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/ku4itZopgf3E.jpg",
               "sortOrder": 1,
               "description": "",
@@ -720,7 +727,7 @@
           ],
           "interior": [
             {
-              "id": "01a1af8f-7d62-798c-a8c5-0c51ad0d458f",
+              "id": "01a1c496-b71c-72ea-85ea-187d3c8acf1a",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/EWJMSGk1wn9H.jpg",
               "sortOrder": 2,
               "description": "",
@@ -728,7 +735,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d62-7c35-8202-a418ed11043f",
+              "id": "01a1c496-b71c-78b1-b634-8e1b07aec611",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/NcfIYBVhe3ZW.jpg",
               "sortOrder": 3,
               "description": "",
@@ -736,7 +743,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d63-7133-bf9e-985ac99c3fef",
+              "id": "01a1c496-b71d-71bb-ad61-2f8c8fec753d",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/9yUWZnGPalB4.jpg",
               "sortOrder": 4,
               "description": "",
@@ -744,7 +751,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d63-74c9-9cf6-33d6a6c51160",
+              "id": "01a1c496-b71d-7e48-9dae-4c860fed209f",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/pLuhOwxdgyt2.jpg",
               "sortOrder": 5,
               "description": "",
@@ -752,7 +759,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d63-7697-8bce-e26d82a343fc",
+              "id": "01a1c496-b71e-70ab-a603-e32b32c0ff33",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/06/X6cK9hpeGouB.jpg",
               "sortOrder": 6,
               "description": "",
@@ -760,7 +767,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d63-779a-929f-520e59431f76",
+              "id": "01a1c496-b71e-7a0d-8d4a-268e062e63cf",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/Pb59fE6t3ypU.jpg",
               "sortOrder": 7,
               "description": "",
@@ -768,7 +775,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d63-7971-b8e0-83bd553fb7e0",
+              "id": "01a1c496-b71e-7de7-91da-cca9050c4abb",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/G3qufRMBVLhO.jpg",
               "sortOrder": 8,
               "description": "",
@@ -776,7 +783,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d63-7b53-8ffd-6c03ac47dcd6",
+              "id": "01a1c496-b71f-770a-8fd8-f7887f87504c",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/v146V0Nkc28E.jpg",
               "sortOrder": 9,
               "description": "",
@@ -784,7 +791,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d64-7047-8cb7-2bf37b8a514f",
+              "id": "01a1c496-b71f-79e7-88ee-644abe64325b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/KVl4OfzYc93M.jpg",
               "sortOrder": 10,
               "description": "",
@@ -792,7 +799,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d64-7428-b58f-31beb0bd0d8c",
+              "id": "01a1c496-b71f-7f26-9055-c1f9e1bc92bc",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/Gmda0WR5zbVU.jpg",
               "sortOrder": 11,
               "description": "",
@@ -800,7 +807,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d64-7551-84f5-ab04b7a7b266",
+              "id": "01a1c496-b720-74f8-afef-eb634956359b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/DbENXVsklhKQ.jpg",
               "sortOrder": 12,
               "description": "",
@@ -808,7 +815,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d64-7781-bc3c-dc77b55f631d",
+              "id": "01a1c496-b720-79c2-89c9-9ad6347fe9b3",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/WxfegShYuo4K.jpg",
               "sortOrder": 13,
               "description": "",
@@ -816,7 +823,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d64-7971-a545-6abf8c1779d2",
+              "id": "01a1c496-b720-7e4a-a511-1957bb3550b8",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/k5AUHlGmB4tS.jpg",
               "sortOrder": 14,
               "description": "",
@@ -824,7 +831,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d68-75b6-a2fe-b0ebeadc8804",
+              "id": "01a1c496-b721-72cb-81ff-45e804707580",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/c6FW93Ur0Hu2.jpg",
               "sortOrder": 15,
               "description": "",
@@ -832,7 +839,7 @@
               "blockId": null
             },
             {
-              "id": "01a1af8f-7d69-7324-af95-284805592998",
+              "id": "01a1c496-b721-780f-bcb6-8e1fd96d255b",
               "url": "https://bookingplay-media.s3.amazonaws.com/room_images/2026/11/05/klCunXhx6NH0.jpg",
               "sortOrder": 16,
               "description": "",
@@ -992,7 +999,7 @@
                 ],
                 "videos": [ ],
                 "mediaType": "image",
-                "description": "창밖의 강을 바라보다 마당에 나와 바람을 쐬고,\n저녁에는 함께 둘러앉아 맛있는 한 끼를 나눠보세요.\n강릉 리버힐스테이에서 보내는 하루가 편안한 기억으로 남기를 바랍니다."
+                "description": "창밖의 강을 바라보다 마당에 나와 바람을 쐬고,\n저녁에는 함께 둘러앉아 맛있는 한 끼를 나눠보세요.\n강릉 리버힐스테이 펜션에서 보내는 하루가 편안한 기억으로 남기를 바랍니다."
               },
               "essence": {
                 "title": "",
@@ -1380,7 +1387,7 @@
         "color": null
       },
       "property": {
-        "name": "강릉 리버힐스테이",
+        "name": "강릉 리버힐스테이 펜션",
         "images": [
           {
             "id": "01a1ae48-88d0-7ea8-be53-b4905db3b1a9",
@@ -1509,7 +1516,7 @@
             "category": "property_exterior"
           }
         ],
-        "nameEn": "Gangneung River Hill Stay"
+        "nameEn": "Gangneung River Hill Stay Pension"
       },
       "roomtypes": [
         {
@@ -1893,7 +1900,8 @@
         }
       ],
       "footer": {
-        "ruralStayMark": null
+        "ruralStayMark": null,
+        "ruralStayMarks": [ ]
       }
     }
   }
